@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#hoverBox {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.tab-content {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #eee;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
